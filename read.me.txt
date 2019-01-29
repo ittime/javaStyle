@@ -1,0 +1,18 @@
+.
+.
+...[ javaStyle ]...
+.
+.
+
+javaStyle is a git repository for small "java" programs.
+every folder/directory is a stand alone program.
+readme file will be appeared in every folder/directory.
+
+exe.jar folder /directory is jar, exe files are executable programs
+
+enjoy.
+
+
+::::[ $ git clone https://github.com/ittime/javaStyle.git ]::::
+
+.eof.
