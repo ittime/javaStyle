@@ -1,0 +1,23 @@
+package searchExcel.gui;
+
+public class SearchExcel 
+{
+
+	//constructor
+	public SearchExcel() 
+	{
+		
+	}
+
+	/***
+	 * main()
+	 * @param args - none
+	 */
+	public static void main(String[] args) 
+	{
+		
+		SearchExcel searchExcel = new SearchExcel();
+
+	}
+
+}

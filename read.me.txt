@@ -6,9 +6,9 @@
 
 javaStyle is a git repository for small "java" programs.
 every folder/directory is a stand alone program.
-readme file will be appeared in every folder/directory.
+"read.me.txt" file will be appeared in every folder/directory.
 
-exe.jar folder /directory is jar, exe files are executable programs
+"exe.jar" folder /directory is "jar", "exe" files are executable programs
 
 enjoy.
 
