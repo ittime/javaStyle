@@ -1,0 +1,23 @@
+.
+.
+...[ javaStyle - SearchExcel ]...
+.
+.
+
+SearchExcel is a desktop application - excel comparison.
+
+-- compare the differences between two excel files.
+-- return a report of the different content of the files.
+
+this desktop application is based on:
+-- Java Maven
+-- MVC (model view controller)
+-- Cliednt-Server style .
+
+
+enjoy.
+
+
+::::[ $ git clone https://github.com/ittime/javaStyle.git ]::::
+
+.eof.

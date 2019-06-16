@@ -1,0 +1,21 @@
+.
+.
+...[ javaStyle - ldap-login ]...
+.
+.
+
+ldap-login is a desktop application - ldap login (active directory).
+small methods that find ldap parameters for easy user+password validation.
+
+this desktop application is based on:
+-- Java Maven
+-- MVC (model view controller)
+-- Cliednt-Server style .
+
+
+enjoy.
+
+
+::::[ $ git clone https://github.com/ittime/javaStyle.git ]::::
+
+.eof.
