@@ -36,19 +36,30 @@ public class RgularNumbers implements LotoNumbers {
 		for (int i = startWith; i < total;) {
 			temp = generateRandomNumber();
 
+			/***
+			 *  if number not exist in array
+			 *  write the the new number to the array , 
+			 *  continue to next number.
+			 */
 			if (alRegularNumberList.contains(temp) == false) {
-//				System.out.print(temp + ", ");
-				// System.out.printf("[%3d], ", temp);
 				alRegularNumberList.add(temp);
 				temp = 0;
 				i++;
 			}
+			
+			// -!!- if number exist in array rerun current index loop -!!- //
 		}
 
 	}
 
 	/*
 	 * generateRandomNumber() - generate Random Number (one number).
+	 */
+	
+	
+	/**
+	 * generateRandomNumber()
+	 * @return number // a random number
 	 */
 	private int generateRandomNumber() {
 		int number = 0;
