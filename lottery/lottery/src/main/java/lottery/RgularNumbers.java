@@ -74,11 +74,11 @@ public class RgularNumbers implements LotoNumbers {
 	 * sortArrayList() - sort ArrayList (
 	 */
 	public void sortArrayList() {
-///// //Ascending
+        // Ascending //
 		Collections.sort(alRegularNumberList);
 
-///// //Descending 
-///// Collections.sort(alRegularNumberList, Collections.reverseOrder());	
+        // Descending 
+        //   Collections.sort(alRegularNumberList, Collections.reverseOrder());	
 	}
 
 	/*

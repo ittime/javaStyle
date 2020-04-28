@@ -16,18 +16,6 @@ public class Lottery {
 		lotoStrong1.generate();
 	}
 
-//	/*
-//	 * Lotto() --> constructor. (run once)
-//	 */
-//	public Lottery() {
-//		LotoFactory lotoFactory = new LotoFactory();
-//		
-//		LotoNumbers lotoNumbers1 = lotoFactory.getNumbers("regular");
-//		lotoNumbers1.generate();
-//		
-//		LotoNumbers lotoStrong1 = lotoFactory.getNumbers("strong");
-//		lotoStrong1.generate();
-//	}
 
 	/*
 	 * main() - lets start.
